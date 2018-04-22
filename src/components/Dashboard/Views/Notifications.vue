@@ -4,7 +4,7 @@
       <card>
         <template slot="header">
           <h4 class="card-title">Video Games Sales Dataset</h4>
-          <p class="card-category">Containing sales data as at 22 December+ 2016</p>
+          <p class="card-category">Containing sales data as at 22 December 2016</p>
         </template>
         <template>
         <div class="app">
